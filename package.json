@@ -24,7 +24,7 @@
         "vue-template-compiler": "^2.6.10"
     },
     "dependencies": {
-        "chart.js": "^2.9.3",
+        "chart.js": "^2.9.4",
         "google-palette": "^1.1.0",
         "laravel-echo": "^1.7.0",
         "pusher-js": "^5.1.1",
